@@ -220,6 +220,10 @@ h1, h2, h3, p {
 	animation: fade 1s ease 1s 1 normal, slideup 2.4s ease 0.23s 1 normal;
 }
 
+.servercount {
+	color: #b1b5d8;
+}
+
 .name,
 .tagline,
 .section .section-header,
