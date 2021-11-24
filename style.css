@@ -211,13 +211,13 @@ h1, h2, h3, p {
 
 .name {
 	flex: 1 1 1;
-	animation: fade 1s ease 0s 1 normal, slideup 1s ease 0.25s 1 normal;
+	animation: fade 1s ease 0s 1 normal, slideup 2s ease 0.1s 1 normal;
 }
 
 .tagline {
 	flex: 1 1 auto;
 	font-style: italic;
-	animation: fade 1s ease 0s 1 normal, slideup 1s ease 0.4s 1 normal;
+	animation: fade 1s ease 1s 1 normal, slideup 2.4s ease 0.23s 1 normal;
 }
 
 .name,
