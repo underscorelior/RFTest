@@ -85,12 +85,14 @@ h1, h2, h3, p {
 }
 
 .navbar.minimized {
-	height: 3rem;
+	height: 4rem;
 }
 
 .navbar-logo {
-	height: 36px;
-	width: 36px;
+	height: 66px;
+	width: 66px;
+	padding-left: 10px;
+	padding-right: 10px;
 	color: var(--logo-color);
 }
 
